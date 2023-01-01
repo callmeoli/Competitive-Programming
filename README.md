@@ -1,1 +1,1 @@
-Solution Repositery for A2SV Competitive-Programming
+Solution Repository for A2SV Competitive-Programming
